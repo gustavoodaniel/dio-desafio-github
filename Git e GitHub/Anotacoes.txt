@@ -1,0 +1,3 @@
+Git: utilizado para versionamento de código distribuido
+
+GitHub: repositório remoto para armazenamento de códigos e etc
